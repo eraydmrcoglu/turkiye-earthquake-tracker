@@ -14,14 +14,12 @@ export default async function Home() {
         <Navbar />
       </div>
 
-      {/* Sayfa içeriği */}
       <main className="w-full flex flex-col items-center px-4 mt-8">
         {/* Harita */}
         <div className="w-full max-w-7xl">
           <DepremHaritasi />
         </div>
 
-        {/* Tablo */}
         <div className="w-full max-w-6xl mt-16 mb-20">
           <h2 className="text-2xl font-bold text-center mb-6">
             Bugünkü Son Depremler
