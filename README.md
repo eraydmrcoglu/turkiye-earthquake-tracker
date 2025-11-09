@@ -25,7 +25,7 @@ while the **frontend (Next.js)** displays it dynamically with responsive UI, hov
 ## 🧠 Tech Stack
 
 ### 🎨 Frontend
-- **Next.js 14** – React-based frontend framework  
+- **Next.js 15** – React-based frontend framework  
 - **TypeScript** – Type-safe development  
 - **TailwindCSS** – Utility-first CSS framework  
 - **ReactSVG** – Interactive SVG rendering  
