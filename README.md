@@ -1,13 +1,6 @@
-# 🌍 Turkey Earthquake Tracker  
-⚡ Full-Stack Real-Time Earthquake Tracker App built with Next.js and NestJS
+# 🌍 Turkey Earthquake Tracker
 
----
-
-## 🧭 Overview
-
-A full-stack web application that visualizes **real-time earthquake data across Turkey** on an interactive SVG map.  
-The **backend (NestJS)** fetches and processes earthquake data from official sources such as **Kandilli Observatory** or **AFAD**,  
-while the **frontend (Next.js)** displays it dynamically with responsive UI, hover tooltips, and clean visual design.
+A full-stack web application that visualizes **real-time earthquake data across Turkey** on an interactive SVG map. The **backend (NestJS)** fetches and processes earthquake data from official sources such as **Kandilli Observatory** or **AFAD**,  while the **frontend (Next.js)** displays it dynamically with responsive UI, hover tooltips, and clean visual design.
 
 ---
 
